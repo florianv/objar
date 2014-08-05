@@ -1,0 +1,34 @@
+{
+  "name": "objar",
+  "version": "0.0.0",
+  "description": "Simple and fast dependency injection container",
+  "license": "MIT",
+  "repository": "florianv/objar",
+  "author": {
+    "name": "Florian Voutzinos",
+    "email": "florian@voutzinos.com",
+    "homepage": "http://florian.voutzinos.com"
+  },
+  "scripts": {
+    "test": "jasmine-node ."
+  },
+  "main": [
+    "objar.js"
+  ],
+  "files": [
+    "objar.js"
+  ],
+  "keywords": [
+    "di",
+    "dependency",
+    "injection",
+    "container",
+    "injector"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1",
+    "jasmine-node": "*"
+  }
+}

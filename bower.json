@@ -1,0 +1,20 @@
+{
+  "name": "objar",
+  "version": "0.0.0",
+  "main": "objar.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "README.md",
+    "package.json",
+    "objarSpec.js",
+    "gulpfile.js"
+  ],
+  "keywords": [
+    "di",
+    "dependency",
+    "injection",
+    "container",
+    "injector"
+  ]
+}
