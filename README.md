@@ -127,4 +127,4 @@ jar.invoke(['hello', 'world', function (h, w) {
 [MIT](https://github.com/florianv/objar/blob/master/LICENSE)
 
 [travis-url]: https://travis-ci.org/florianv/objar
-[travis-image]: https://travis-ci.org/florianv/objar.svg?branch=master
+[travis-image]: http://img.shields.io/travis/florianv/objar.svg?style=flat-square
